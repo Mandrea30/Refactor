@@ -74,7 +74,7 @@ a {
 }
 
 
-/* Ordered classes  */
+/* Ordered classes by article order */
 .search-engine {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,8 +124,10 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of article section */
 
 
+/* ordered the classes in order of appearance */
 .benefits {
     margin-right: 20px;
     padding: 20px;
